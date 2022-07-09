@@ -1,5 +1,5 @@
 # OpenGL-Triangle
-A Triangle Made in OpenGL
+A Triangle Made in OpenGL and C++
 
 
 ## Preview
